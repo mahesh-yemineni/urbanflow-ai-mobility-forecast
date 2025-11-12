@@ -4,3 +4,4 @@ plotly
 lightgbm
 joblib
 scikit-learn
+statsmodels
